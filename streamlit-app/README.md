@@ -2,7 +2,7 @@
 
 An easy-to-use web app that lets you upload a car image and predicts the type of damage on the vehicle. The model is specifically trained on front and rear three-quarter views of cars, so please upload images from these perspectives for best accuracy.
 
-![[app](app_screenshot.jpg)
+![app](app_screenshot.jpg)
 
 ## Model Details
 
